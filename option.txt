@@ -1,4 +1,5 @@
-*** VERY IMPORTANT*** Click on a selection the 1st time you use the media player or if you want to update the software. Click on “Launch Media Player” if you just want to use player after you have updated it. 
+*** VERY IMPORTANT*** Click on numbers 2,3,4 the 1st time you use the media player to install the bulid of you choice or if you want to update the software. If updating software please launch the Media Player and make sure that you click on shutdown before you try to instal update. 
+Click “Launch Media Player” if you just want to use player after you have updated it. 
 NextFlix - updated 7/11/2016
 Simple - updated 7/11/2016
 kidFlix - updated 7/12/2016
