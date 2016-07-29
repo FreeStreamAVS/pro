@@ -1,5 +1,5 @@
 *** VERY IMPORTANT*** Click on numbers 3,4,5 the 1st time you use the media player to install the bulid of your choice or to update the software. If updating software please launch the Media Player and make sure that you clicked on shutdown before you try to install update. 
 *** Click “Launch Media Player” to use software after you have installed the bulid.
-NextFlix - updated 7/11/2016
+NextFlix - updated 7/29/2016
 Simple - updated 7/11/2016
 kidFlix - updated 7/12/2016
